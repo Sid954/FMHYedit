@@ -431,7 +431,6 @@
 * ⭐ **[Kinokiste](https://kinokiste.live/)** -  Movies / TV / Dub / 1080p
 * [streamkiste](https://streamkiste.taxi/), [2](https://streamkiste.tv/) - Movies / TV / Dub / 1080p
 * [FilmPalast](https://filmpalast.sx/), [2](https://filmpalast.info/) - Movies / TV / Dub / 1080p
-* [Kinoger](https://kinoger.com/) - Movies / TV / 1080p
 * [Megakino](https://megakino.org/) - Movies / TV / Dub / 720p
 * [StreamCloud](https://streamcloud.sx/) - Movies / TV / 720p
 * [Kinos](https://www.kinos.to/) - Movies / TV / Dub / 720p
@@ -1246,7 +1245,7 @@
 
 ## ▷ Streaming
 
-* ⭐ **[rezka](https://rezka.ag/)**, [2](https://hdrezka.ag/) - Movies / TV / Anime / Sub / Dub / 4K / 1080p
+* ⭐ **[rezka](https://rezka.ag/)**, [2](https://hdrezka.ag/) - Movies / TV / Anime / Sub / Dub / 1080p
 * ⭐ **[KinoProfi](https://content.kinoprofi.club/)** - Movies / TV / Cartoons / Dub / 1080p
 * [HD VideoBox](https://strannikmodz.me/apps/media/135-hdvideobox-222.html) - Movies / TV / Anime / Aggregator / [AMOLED](https://strannikmodz.me/other_modz/sirenes_team/127-hd-videobox-st-221.html)
 * [KinoBase](https://kinobase.org/) - Movies / TV / Sub / Dub / 1080p
@@ -1460,7 +1459,7 @@
 * ⭐ **[LaQuay TDT Channels](https://github.com/LaQuay/TDTChannels)** - Live TV / Live Radio / IPTV / Castilian
 * ⭐ **[El Plan](https://www.reddit.com/user/No_Land656)** - Live Sports Acestream IDs
 * ⭐ **[Flipax](https://www.flipax.es/)** - Live Sports
-* [PlayDede](https://playdede.us/) - Movies / TV / Anime / 1080p / Castilian / Latino / [Telegram](https://t.me/s/playdedeinformacion) / [App](https://t.me/playdedeapp/11161)
+* [PlayDede](https://playdede.us/) - Movies / TV / Anime / 1080p / [Telegram](https://t.me/s/playdedeinformacion)
 * [Zonaleros](https://www.zona-leros.com/peliculas-hd-online-lat) - Movies / TV / 1080p / Latino
 * [Solo Latino](https://sololatino.net/) - Movies / TV / Anime / 1080p / Latino
 * [Repelis24](https://www1.repelis24.yt/) - Movies / TV / Latino
